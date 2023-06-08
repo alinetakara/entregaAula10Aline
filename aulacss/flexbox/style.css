@@ -1,0 +1,30 @@
+.pai{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: red;
+}
+.filho{
+    border: 4px dotted black;
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+}
+#verde{
+    background-color: green;
+}
+#amarelo{
+    background-color: yellow;
+}
+#rosa{
+    background-color: pink;
+}
+#laranja{
+    background-color: orange;
+}
+#marron{
+    background-color: brown;
+}
